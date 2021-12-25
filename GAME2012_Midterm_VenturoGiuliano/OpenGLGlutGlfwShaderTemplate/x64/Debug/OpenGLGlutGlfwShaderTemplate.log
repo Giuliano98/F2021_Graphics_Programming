@@ -1,0 +1,6 @@
+﻿  GAME2012_Midterm_VenturoGiuliano.cpp
+C:\Users\Giuliano\Desktop\GAME2012_A2_VenturoGiuliano\OpenGLGlutGlfwShaderTemplate\GAME2012_Midterm_VenturoGiuliano.cpp(65,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  prepShader.cpp
+C:\Users\Giuliano\Desktop\GAME2012_A2_VenturoGiuliano\OpenGLGlutGlfwShaderTemplate\prepShader.cpp(16,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\Giuliano\Desktop\GAME2012_A2_VenturoGiuliano\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe

@@ -1,0 +1,3 @@
+﻿  GAME2012_Midterm_VenturoGiuliano.cpp
+C:\Users\Giuliano\Desktop\GAME2012_Midterm_VenturoGiuliano\OpenGLGlutGlfwShaderTemplate\GAME2012_Midterm_VenturoGiuliano.cpp(65,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\Giuliano\Desktop\GAME2012_Midterm_VenturoGiuliano\Debug\OpenGLGlutGlfwShaderTemplate.exe
